@@ -13,6 +13,7 @@ pinned repos for actual applications built using these fundamentals.
     ├── 01-variables-datatypes/
     │ └── calculator.js
     ├── 02-functions/
+    │ └── temp-converter.js
     ├── 03-arrays/
     ├── 04-objects/
     ├── 05-loops-conditionals/
@@ -25,7 +26,7 @@ pinned repos for actual applications built using these fundamentals.
 ## Topics covered so far
 
 - [x] Variables, data types, operators, template literals
-- [ ] Functions & scope
+- [x] Functions & scope
 - [ ] Arrays & array methods
 - [ ] Objects, destructuring, spread/rest
 - [ ] Loops, conditionals, truthy/falsy
