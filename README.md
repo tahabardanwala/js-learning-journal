@@ -15,6 +15,7 @@ pinned repos for actual applications built using these fundamentals.
     ├── 02-functions/
     │ └── temp-converter.js
     ├── 03-arrays/
+    │ └── grade-processor.js
     ├── 04-objects/
     ├── 05-loops-conditionals/
     ├── 06-async-js/
@@ -27,7 +28,7 @@ pinned repos for actual applications built using these fundamentals.
 
 - [x] Variables, data types, operators, template literals
 - [x] Functions & scope
-- [ ] Arrays & array methods
+- [x] Arrays & array methods
 - [ ] Objects, destructuring, spread/rest
 - [ ] Loops, conditionals, truthy/falsy
 - [ ] Asynchronous JS (callbacks, promises, async/await)
